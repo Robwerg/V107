@@ -1,6 +1,6 @@
 # V107
-works on V1 PCB with ALS sensors (and OTT sensors with D9 data pin bridge)
-
+**works on V1 PCB with ALS sensors (and OTT sensors with D9 data pin bridge)
+**
 ALS calibration is easier now, just edit the config file as per below:
 
 ADC CONFIG__________________________________________________________
@@ -26,7 +26,7 @@ ADC0_Cal_Val_max        ={2000};
 
 temperature compensation is addressed with hardware onboard the ALS sensors
 
-Still to come from Kai:
+**Still to come from Kai:**
 
 Add config option to remove text identifiers from data so we don't have to remove in node-red
 
