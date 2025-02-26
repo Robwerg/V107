@@ -26,3 +26,7 @@ ADC0_Cal_Val_max        ={2000};
 
 temperature compensation is addressed with hardware onboard the ALS sensors
 
+Still to come from Kai:
+Add config option to remove text identifiers from data so we don't have to remove in node-red
+Add raw mV data on LoRa and SDcard
+
