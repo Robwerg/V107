@@ -2,6 +2,7 @@
 works on V1 PCB with ALS sensors (and OTT sensors with D9 data pin bridge)
 
 ALS calibration is easier now, just edit the config file as per below:
+
 ADC CONFIG__________________________________________________________
 ADC0_Attached           =1;                                         //1 if in use. 0 if not in use.
 ADC0_ID                 =AN;                                         //2 character ID key for selected sensor
